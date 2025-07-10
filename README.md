@@ -12,9 +12,6 @@ An implementation of various CPU scheduling algorithms in C++. The algorithms in
     - [Feedback (FB)](#feedback-fb)
     - [Feedback with varying time quantum (FBV)](#feedback-with-varying-time-quantum-fbv)
     - [Aging](#aging)
-  - [Installation](#installation)
-  - [Input Format](#input-format)
-  - [Contributors](#contributors)
 
 ## Algorithms
 
@@ -90,8 +87,3 @@ the following steps.
 
 
 
-## Contributors
-
-- [Yousef Kotp](https://github.com/yousefkotp)
-
-- [Adham Mohammed](https://github.com/adhammohamed1)
